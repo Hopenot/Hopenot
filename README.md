@@ -4,7 +4,7 @@ This is my QA's space. Examples of homework done on different courses.
 
 Linux terminal;
 Git;
-Postman;
+[Postman](git@github.com:Hopenot/postman.git);
 SQL;
 HTML and CSS
 
