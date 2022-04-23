@@ -3,7 +3,7 @@
 This is my QA's space. Examples of homework done on different courses.
 
 Linux terminal;
-- Git;
+- [Git](https://github.com/Hopenot/commands);
 - [Postman](https://github.com/Hopenot/postman);
 - [SQL](https://github.com/Hopenot/sql);
 - HTML and CSS
